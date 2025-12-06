@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uo7PTB8nh8Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\This PC\\Desktop\\UnitTests\\AspNetExample.Shared\\AspNetExample.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\This PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

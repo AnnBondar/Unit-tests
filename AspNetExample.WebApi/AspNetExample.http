@@ -1,0 +1,11 @@
+@AspNetExample_HostAddress = http://localhost:5121
+
+GET {{AspNetExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{AspNetExample_HostAddress}}/MyModel/GetModel/my-value
+Accept: application/json
+
+###
